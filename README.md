@@ -10,11 +10,11 @@ Please refer to `Assignment 1` and `Assignment 2` folders for the respective ass
 
 ### 📂 Assignment 1
 
-For details and codebase of Assignment 1, please visit [here](https://github.com/HarshithAkkapelli/DataMining/tree/main/Assignment1).
+For details and codebase of Assignment 1, please visit [here](https://github.com/HarshithAkkapelli/DataMiningAssignment2/tree/main/Assignment1).
 
 ### 📂 Assignment 2
 
-For details and codebase of Assignment 2, please visit [here](https://github.com/HarshithAkkapelli/DataMining/tree/main/Assignment2).
+For details and codebase of Assignment 2, please visit [here](https://github.com/HarshithAkkapelli/DataMiningAssignment2/tree/main/Assignment2).
 
 ---
 
