@@ -6,7 +6,7 @@
 
 ## 📋 Table of Contents 📋
 1. [🌟 Introduction](#introduction)
-2. [📝 Assignment Table](#assignment-table)
+2. [📝 Colab Notebook and Dataset links](#assignment-table)
 3. [🎥 Demos](#demos)
 
 ---
@@ -16,7 +16,7 @@ This README outlines the tasks completed as part of Assignment 2. Each task focu
 
 ---
 
-## 📝 Assignment Table 📝
+## 📝 Colab Notebook and Dataset links 📝
 
 | Task                                                | Colab Link                                                                                               | Kaggle Dataset Link                                                                                                               |
 |-----------------------------------------------------|----------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|
@@ -31,7 +31,7 @@ This README outlines the tasks completed as part of Assignment 2. Each task focu
 
 ---
 
-## 🎥 Demos 🎥
+## 🎥 Gradio Demos 🎥
 - **Demo 1:** [View](https://drive.google.com/file/d/1AsXI5JFRp0JPuAUNoJm49sEBhBQkx5WR/view?usp=sharing)
 - **Demo 2:** [View](https://drive.google.com/file/d/1_68Nv0lsL-FOMoNnW0rM3lFXM9_VMV4D/view?usp=sharing)
 
