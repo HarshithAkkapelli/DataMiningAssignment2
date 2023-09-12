@@ -5,7 +5,7 @@
 
 ## 📋 Table of Contents 📋
 1. [🌟 Introduction](#introduction)
-2. [🎥 Demo-1: Datarobot](#demo)
+2. [Demo-1: Datarobot(Better than Jadbio)](#demo)
 3. [🎥 Demo-2: Jadbio](#demo)
 4. [📊 Dataset](#dataset)
 5. [📝 Task Description](#task-description)
