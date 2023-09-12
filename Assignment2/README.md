@@ -6,7 +6,7 @@
 
 ## 📋 Table of Contents 📋
 1. [🌟 Introduction](#introduction)
-2. [📝 Colab Notebook and Dataset links](#assignment-table)
+2. [📝 Colab Notebooks and Kaggle Dataset links](#assignment-table)
 3. [🎥 Demos](#demos)
 
 ---
@@ -16,7 +16,7 @@ This README outlines the tasks completed as part of Assignment 2. Each task focu
 
 ---
 
-## 📝 Colab Notebook and Dataset links 📝
+## 📝 Colab Notebooks and Kaggle Dataset links 📝
 
 | Task                                                | Colab Link                                                                                               | Kaggle Dataset Link                                                                                                               |
 |-----------------------------------------------------|----------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|
