@@ -5,11 +5,12 @@
 
 ## 📋 Table of Contents 📋
 1. [🌟 Introduction](#introduction)
-2. [🎥 Demo](#demo)
-3. [📊 Dataset](#dataset)
-4. [📝 Task Description](#task-description)
-5. [🔍 Variables](#variables)
-6. [🎯 Target Variable](#target-variable)
+2. [🎥 Demo-1: Datarobot](#demo)
+3. [🎥 Demo-2: Jadbio](#demo)
+4. [📊 Dataset](#dataset)
+5. [📝 Task Description](#task-description)
+6. [🔍 Variables](#variables)
+7. [🎯 Target Variable](#target-variable)
 
 
 
@@ -18,10 +19,16 @@
 ## 🌟 Introduction
 This project aims to explore and analyze the factors affecting students' academic performance. We will be using machine learning techniques to understand these factors and predict a student's academic performance based on them.
 
+Honestly Datarobot worked better than Jadbio
+
 ---
 
-## 🎥 Demo
+## 🎥 Demo-1: Datarobot
 A screencast demonstrating the workflow and results of the analysis can be found [here](https://drive.google.com/file/d/1eFp7DZtBYCyGXbUrmlW0LbOXyKPRH6_k/view?usp=sharing).
+
+---
+## 🎥 Demo-2: Jadbio
+A screencast demonstrating the workflow and results of the analysis can be found [here](https://drive.google.com/file/d/1UjpmECqzdCgMz8XSDySjS7qMz8G3b0av/view?usp=sharing).
 
 ---
 
