@@ -23,7 +23,7 @@ Honestly Datarobot worked better than Jadbio
 
 ---
 
-## 🎥 Demo-1: Datarobot
+## 🎥 Demo-1: Datarobot(Better than Jadbio)
 A screencast demonstrating the workflow and results of the analysis can be found [here](https://drive.google.com/file/d/1eFp7DZtBYCyGXbUrmlW0LbOXyKPRH6_k/view?usp=sharing).
 
 ---
